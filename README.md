@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Emris06
+- 👋 Hi, I’m Amirshokh Akhmedov
 - 👀 I’m interested in Web Programming
 - 🌱 I’m currently learning Frontend development
 - 💞️ I'm looking to collaborate on a project with another brand or business. 
