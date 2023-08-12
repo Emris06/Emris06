@@ -1,10 +1,14 @@
-- 👋 Hi, I’m Amirshokh Akhmedov
-- 👀 I’m interested in Web Programming
-- 🌱 I’m currently learning Frontend development
-- 💞️ I'm looking to collaborate on a project with another brand or business. 
-- 📫 How to reach me - (+998 91 412-56-36)
+Hi 👋 My name is Amirshoh Akhmedov
+Frontend Developer | React, Redux
+With my passion for frontend development and solid technical skills,
+I am ready to contribute to innovative projects and deliver exceptional user experiences.
 
-<!---
-Emris06/Emris06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌍  I'm based in Bukhara, Uzbekistan
+🧠  I'm learning Backend | JAVA, PostgreSQL
+
+
+Skills
+Java Git JavaScript TypeScript HTML5 CSS3 Sass TailwindCSS Chakra UI Bootstrap Material UI React Redux Firebase
+
+Socials
+    
