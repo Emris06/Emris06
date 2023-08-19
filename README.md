@@ -78,7 +78,7 @@ Thank you for stopping by, and I hope you enjoy exploring my world of coding won
 
 Keep coding spells and building dreams,
 
-Amirshokh Akhmedov
+<h1>Amirshokh Akhmedov</h1>
 
 
 ###
